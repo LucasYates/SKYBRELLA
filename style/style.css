@@ -139,6 +139,7 @@ footer {
 
 .col-6{
     padding: 15px;
+    padding-top: 15px;
     float: left;
     width: 50%;
 }
